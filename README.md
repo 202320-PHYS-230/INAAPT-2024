@@ -1,3 +1,3 @@
-# DALO 1v1
+# INAAPT 2024 Uncertainty with Monte Carlo
 
-Create a codespace and do the quiz [here](quiz.ipynb)
+The demo is [here](demo.ipynb)

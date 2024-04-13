@@ -2,6 +2,4 @@ pandas
 numpy
 matplotlib
 scipy
-empiricaldist
-pymc
-arviz
+seaborn==0.13.2
